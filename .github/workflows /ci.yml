@@ -17,5 +17,5 @@ jobs:
   check-on-dev:
     if: github.event_name == 'pull_request'
     name: Check
-    uses: eu9703/workflow/.github/workflows/check_on_environment_by_terraform.yml
+    uses: eu9703/workflow/.github/workflows/check_on_environment_by_terraform.yml@main
     secrets: inherit

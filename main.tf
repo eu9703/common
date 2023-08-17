@@ -5,5 +5,5 @@ provider "azurerm" {
 
 locals {
   resource_group_name = "test"
-  test = "bla"
+  test = "bla111"
 }

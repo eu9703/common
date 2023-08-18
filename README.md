@@ -3,7 +3,7 @@
 
 | Name | Version |
 |------|---------|
-| <a name="requirement_azurerm"></a> [azurerm](#requirement\_azurerm) | =3.42.0 |
+| <a name="requirement_azurerm"></a> [azurerm](#requirement\_azurerm) | =3.43.0 |
 
 ## Providers
 
